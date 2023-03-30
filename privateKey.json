@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "disneyplus-clone-92a68",
+  "private_key_id": "33daf2cc78e1ab00658664e0aa1b81313ca2e6a5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCyILDEY9mWVGjO\nEdXYpGQECf9qISipVIZmqsPyWGgNHLJBJfFfQyCKkRQLouj8zHVXI99SehlzB0k8\nBSEInXlwrCBzscEF0Q4HQwZ4Ja06KzzS57/OGmfjTvXeIglIJAK00Azr6McufgMX\nDaeBonTa+7DN7lrGcaHv8N7bRjMWlry8HQHaf1uymJ3u4kJchTuwGOUpsAjLbRQB\nYCtXAAHBEVQP7beZVCJT3qpmIWViV2b/WUi1rTqOVOWVssRpUzXijBsh0a3up+Kh\nVv+Qokjk6llgcLZGgRKQ7e0lh7URjutc5gw2FwQLhXfDE54IdH7YWCyn4b5cugbG\n851P6JJ/AgMBAAECggEAB676l9zwLXPwOa0Nar4cAFV1Ne8+qB/GeTsanxpO/9bv\nsAtLlwfcco2zpN5IBquNGaGEteqOiFRVfEzMDXu5dRY/p9J+IaPirD1f0/40oVTs\n14T6C0gac9Ak6HfSq2Mr+v+tlLl9/EtXpX6RNvCDqOI3vmSTLtO+H/r3zon/uXAl\nG9Gp7S6YxgJWv7cx/rXvfozGKG5giJfNPrCvzFTx5Vsw+mFnFF6xbbly+TFgrZCn\nTmQl/Dxoyd8nfvZDEzReJZgAe6/AkYem8td9q7wll7hQNp0ftdEkId9lqVYdBFPM\nId9PMFkJj8hys26ZmLQztkydeCX4zaDyvJ7DYvr9IQKBgQDZ+PC2mjCDPPK42H3n\nC90Qqje6L2q97ABt/opfOlUh3EBQ3LxooyfdXqcXdqEZYENa65StNjkFJB1b9o9a\nuuCsWladnL0ZKfTBqFtsNsvlmHgrbhbSKfdzzVKsoey9fJOX0BnptdXUw8p1CWzk\n3uoJ/mQuv+7iHBOQYxiZFzTzIQKBgQDRNDWmoaElpn5jbGNVxGin2FZMXkt+DbA7\na0LCNQmuRfbG8Lb2U4au/SveHi1+Xq0CvUAw47/mUde7rTJZ+qt3VwXOA9b8PL1i\nFy7FmLAi7JfBBn7cabgWWcY0oUBC0+quK331ZUEieeEQ0wGLJp9YFG4fkCvZ9CAr\n0pTnpDRxnwKBgC5wroCJK2rasnAVmAWA7pGdYpAliB18yb6lq7+MQxUaww03amD0\n2gp9HyaNnNc2PkOBy8R3uABTaHnudy6CgFnYSXn9KgDRgpc8EnZk2l5JdNjz9KLE\nVDd0+HdVbIYWo6+Fo++6URuqt1jmMDA3GjAU5i1bsT61cqmho10Cp8JhAoGAV2Nn\nxeNeXUvfH8j29azFytcjtWLuRgmRxEBZ8qYVFSdEnnWO9/aMHCzFVlNkzZTe0HYd\nik6Yqq0lYNBIaC290mwXkKcp9tOoiIEGmKPfb7dE7Oy5sXi33R5DHVj+buv27Cpe\nw1M4kh43Vb/OtUG87h4aojSnHLRNfADLErgU8CECgYB6wDJQCI78nWdzOGw7srSU\nBvCoBJu4JcXlbIfj15AcWqS1EnGbVl16J9W9j+QHVboGXmSap1cn3zTj6YPiKEq9\nQiKcfSKhiWDT75GPzNfSNKcAyqLeg5G3SbEjL62HW8lHWK0D4n87nbfEmmAARioP\nih3tBZEFDn7as2t2VBogow==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-6gpwk@disneyplus-clone-92a68.iam.gserviceaccount.com",
+  "client_id": "106538251663219250066",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-6gpwk%40disneyplus-clone-92a68.iam.gserviceaccount.com"
+}
